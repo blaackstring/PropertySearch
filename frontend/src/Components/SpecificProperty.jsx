@@ -65,13 +65,15 @@ const GoogleMap = ({ coordinates }) => {
 
 // Property Image Component
 const PropertyImage = ({ image, title }) => {
+  const imgUrl = "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080";
+    
   return (
     <div className="relative mb-8">
       <div className="relative h-96 bg-gray-200 rounded-xl overflow-hidden shadow-lg">
         <img 
-          src={image} 
+          src={imgUrl}
           alt={title}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-center bg-center bg-no-repeat "
         />
         
         {/* Heart Icon */}
@@ -204,6 +206,9 @@ const AmenitiesSection = ({ amenities }) => {
 const SpecificProperty = () => {
   const {SingleProperty, setSingleProperty, Anemities} = useContext(PropertyAPi);
   const property = SingleProperty || {};
+
+  console.log(property);
+  
   
 
   useEffect(()=>{console.log(Anemities)},[Anemities])
@@ -219,7 +224,7 @@ const SpecificProperty = () => {
   return (
     <div className="w-full mx-auto p-6 mb-10 bg-gray-900 shadow-2xl">
       {/* Property Image */}
-      <PropertyImage image={property?.image} title={property?.title} />
+      <PropertyImage image={property?.images[0]?.small} title={property?.title} />
 
       {/* Header Section */}
       <div className="mb-8">
