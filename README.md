@@ -18,6 +18,20 @@ cd property-search-api```
 npm install
 
 
+### Setup Envoirment Variable
+   Backend Folder .env 
+   MONGO_URL=''
+DB_NAME='HotelSearch' 
+GOOGLE_API_KEY=''
+
+
+Frontend Folder .env
+
+VITE_GOOGLE_KEY=''
+
+
+You Can Ask Me The Envoirments Variables ......Mobile no:(9598174110)       
+
 ### 3. Run the Project
 
     npm run dev
