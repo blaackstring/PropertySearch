@@ -1,0 +1,2502 @@
+[
+  {
+    "title": "3BHK Apartment in Mumbai",
+    "description": "A beautiful 3-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 7397963,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400003"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1329,
+    "coordinates": {
+      "latitude": 19.06660621475038,
+      "longitude": 72.90171892151068
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-20T12:21:59.861Z"
+  },
+  {
+    "title": "2BHK Independent House in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 1424884,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3113,
+    "coordinates": {
+      "latitude": 12.957162740333954,
+      "longitude": 77.57048322678011
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-02T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Independent House in Chennai",
+    "description": "A beautiful 5-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 2690753,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 2462,
+    "coordinates": {
+      "latitude": 13.098339490982227,
+      "longitude": 80.288546007495
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-29T12:21:59.863Z"
+  },
+  {
+    "title": "1BHK Independent House in Chennai",
+    "description": "A beautiful 1-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 3997263,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3231,
+    "coordinates": {
+      "latitude": 13.09910736906256,
+      "longitude": 80.29046138085143
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-12T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Independent House in Bangalore",
+    "description": "A beautiful 4-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 4421099,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 1894,
+    "coordinates": {
+      "latitude": 12.989230464141855,
+      "longitude": 77.59463392522876
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-03T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Studio in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 944186,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2887,
+    "coordinates": {
+      "latitude": 17.369971775973905,
+      "longitude": 78.47924479717724
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-31T12:21:59.863Z"
+  },
+  {
+    "title": "1BHK Independent House in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 1664531,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1550,
+    "coordinates": {
+      "latitude": 12.978203402166443,
+      "longitude": 77.58435686461479
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-14T12:21:59.863Z"
+  },
+  {
+    "title": "2BHK Independent House in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 6084113,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3089,
+    "coordinates": {
+      "latitude": 12.960535601674822,
+      "longitude": 77.57052002110879
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-04T12:21:59.863Z"
+  },
+  {
+    "title": "2BHK Studio in Mumbai",
+    "description": "A beautiful 2-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 2681238,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 3333,
+    "coordinates": {
+      "latitude": 19.06189760675931,
+      "longitude": 72.89432107031686
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-15T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Penthouse in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 2945662,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 894,
+    "coordinates": {
+      "latitude": 17.364908519457053,
+      "longitude": 78.48334212586445
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-05T12:21:59.863Z"
+  },
+  {
+    "title": "3BHK Apartment in Bangalore",
+    "description": "A beautiful 3-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 9531411,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 2664,
+    "coordinates": {
+      "latitude": 12.953910363718128,
+      "longitude": 77.57594567064397
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-30T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Penthouse in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 5871467,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 2612,
+    "coordinates": {
+      "latitude": 28.61288005476024,
+      "longitude": 77.23028034372524
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-05T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Independent House in Delhi",
+    "description": "A beautiful 4-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 6704725,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 1710,
+    "coordinates": {
+      "latitude": 28.606658544547344,
+      "longitude": 77.19410288254798
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-08-03T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Independent House in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 2714994,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 870,
+    "coordinates": {
+      "latitude": 19.075490571451972,
+      "longitude": 72.90205059488162
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-15T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Penthouse in Hyderabad",
+    "description": "A beautiful 5-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 9572972,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 2412,
+    "coordinates": {
+      "latitude": 17.38376925408026,
+      "longitude": 78.48219052076335
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-14T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Villa in Mumbai",
+    "description": "A beautiful 5-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 127302,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 1636,
+    "coordinates": {
+      "latitude": 19.099831428851807,
+      "longitude": 72.90074375950607
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-08T12:21:59.863Z"
+  },
+  {
+    "title": "1BHK Penthouse in Mumbai",
+    "description": "A beautiful 1-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 5993898,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1822,
+    "coordinates": {
+      "latitude": 19.088156763097793,
+      "longitude": 72.85972839381026
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-14T12:21:59.863Z"
+  },
+  {
+    "title": "3BHK Apartment in Mumbai",
+    "description": "A beautiful 3-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 4469475,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 2836,
+    "coordinates": {
+      "latitude": 19.080053511608142,
+      "longitude": 72.88403575398189
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-09T12:21:59.863Z"
+  },
+  {
+    "title": "3BHK Penthouse in Mumbai",
+    "description": "A beautiful 3-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 6296191,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 633,
+    "coordinates": {
+      "latitude": 19.072676528855276,
+      "longitude": 72.86766446489085
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-15T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Villa in Chennai",
+    "description": "A beautiful 5-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 1897286,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 2858,
+    "coordinates": {
+      "latitude": 13.092880529678464,
+      "longitude": 80.28784337135718
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-14T12:21:59.863Z"
+  },
+  {
+    "title": "5BHK Apartment in Chennai",
+    "description": "A beautiful 5-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 5916910,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 3725,
+    "coordinates": {
+      "latitude": 13.07216003936702,
+      "longitude": 80.28763714873396
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-02T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Studio in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 2790247,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 584,
+    "coordinates": {
+      "latitude": 19.095825083166325,
+      "longitude": 72.86753627971298
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-25T12:21:59.863Z"
+  },
+  {
+    "title": "4BHK Villa in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 6699409,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 2933,
+    "coordinates": {
+      "latitude": 19.0602556118234,
+      "longitude": 72.87742539885969
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-04T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Independent House in Hyderabad",
+    "description": "A beautiful 5-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 5353194,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500002"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 3303,
+    "coordinates": {
+      "latitude": 17.366448707241776,
+      "longitude": 78.48690284651506
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-26T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Villa in Hyderabad",
+    "description": "A beautiful 2-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 9018406,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1514,
+    "coordinates": {
+      "latitude": 17.39125871275093,
+      "longitude": 78.49732123525374
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-04T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Apartment in Bangalore",
+    "description": "A beautiful 3-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 7629966,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 2634,
+    "coordinates": {
+      "latitude": 12.968693260100551,
+      "longitude": 77.57484509749926
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-13T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Studio in Delhi",
+    "description": "A beautiful 1-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 7632654,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2518,
+    "coordinates": {
+      "latitude": 28.62577856246951,
+      "longitude": 77.22649342448777
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-18T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Apartment in Mumbai",
+    "description": "A beautiful 5-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 8515397,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 3853,
+    "coordinates": {
+      "latitude": 19.063454251621124,
+      "longitude": 72.88597612971722
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-13T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 4308034,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3413,
+    "coordinates": {
+      "latitude": 12.9623573308713,
+      "longitude": 77.61099694738398
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-02T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Hyderabad",
+    "description": "A beautiful 1-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 4400511,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3806,
+    "coordinates": {
+      "latitude": 17.37441192236776,
+      "longitude": 78.476055712015
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-16T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Apartment in Mumbai",
+    "description": "A beautiful 1-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 254486,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1191,
+    "coordinates": {
+      "latitude": 19.080649552939278,
+      "longitude": 72.86029866708638
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-15T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Apartment in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 5661413,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 3859,
+    "coordinates": {
+      "latitude": 17.409919190225708,
+      "longitude": 78.48159546635135
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-29T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Studio in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 3419301,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3530,
+    "coordinates": {
+      "latitude": 12.953851130494016,
+      "longitude": 77.5832188809649
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-26T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Villa in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 1592157,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 2624,
+    "coordinates": {
+      "latitude": 17.387728512948044,
+      "longitude": 78.47379993936593
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-01T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Penthouse in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 779905,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 2046,
+    "coordinates": {
+      "latitude": 19.057234931083507,
+      "longitude": 72.89451778186807
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-27T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Penthouse in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 806481,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 3488,
+    "coordinates": {
+      "latitude": 19.0808844262462,
+      "longitude": 72.8862400186731
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-12T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Penthouse in Bangalore",
+    "description": "A beautiful 4-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 4276425,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 3757,
+    "coordinates": {
+      "latitude": 12.971705156772028,
+      "longitude": 77.57135465878093
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-07T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Villa in Chennai",
+    "description": "A beautiful 1-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 4813935,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3052,
+    "coordinates": {
+      "latitude": 13.08896994771356,
+      "longitude": 80.2913346015566
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-17T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Studio in Mumbai",
+    "description": "A beautiful 5-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 8316197,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 1363,
+    "coordinates": {
+      "latitude": 19.065938231343985,
+      "longitude": 72.87653637411034
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-19T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Studio in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 6956024,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 3512,
+    "coordinates": {
+      "latitude": 12.96089711245044,
+      "longitude": 77.57271371641389
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-08T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Villa in Chennai",
+    "description": "A beautiful 3-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 1809945,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 2876,
+    "coordinates": {
+      "latitude": 13.058016634937148,
+      "longitude": 80.26753313125639
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-19T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Apartment in Chennai",
+    "description": "A beautiful 5-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 5089203,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 3684,
+    "coordinates": {
+      "latitude": 13.089774409638226,
+      "longitude": 80.24663572439434
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-24T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Studio in Bangalore",
+    "description": "A beautiful 3-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 1050618,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 1997,
+    "coordinates": {
+      "latitude": 12.954203941539006,
+      "longitude": 77.5792379614055
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-19T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Penthouse in Bangalore",
+    "description": "A beautiful 3-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 777143,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 2210,
+    "coordinates": {
+      "latitude": 12.969036897761097,
+      "longitude": 77.5853098474325
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-08T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Penthouse in Chennai",
+    "description": "A beautiful 3-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 7380827,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 3543,
+    "coordinates": {
+      "latitude": 13.084978080236736,
+      "longitude": 80.24953858273169
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-27T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Studio in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 2843784,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500002"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2932,
+    "coordinates": {
+      "latitude": 17.393575926466678,
+      "longitude": 78.47875944818999
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-02T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Independent House in Delhi",
+    "description": "A beautiful 4-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 8257604,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 1711,
+    "coordinates": {
+      "latitude": 28.603317964335968,
+      "longitude": 77.20374052840508
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-16T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Penthouse in Mumbai",
+    "description": "A beautiful 2-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 3594099,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3549,
+    "coordinates": {
+      "latitude": 19.06246031531771,
+      "longitude": 72.89188668247
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-04T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Villa in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 8699502,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500002"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 3138,
+    "coordinates": {
+      "latitude": 17.399146739199374,
+      "longitude": 78.51088357022269
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-19T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Penthouse in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 86044,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 960,
+    "coordinates": {
+      "latitude": 28.62797114158686,
+      "longitude": 77.22093168945726
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-18T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Penthouse in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 1630682,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 3091,
+    "coordinates": {
+      "latitude": 28.601782633107373,
+      "longitude": 77.21314393382552
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-05T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Apartment in Delhi",
+    "description": "A beautiful 4-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 2890684,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 3729,
+    "coordinates": {
+      "latitude": 28.610074792073814,
+      "longitude": 77.20220872065913
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-12T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Studio in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 2196886,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1661,
+    "coordinates": {
+      "latitude": 12.95666953608299,
+      "longitude": 77.57684978636115
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-29T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Apartment in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 7441828,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 2255,
+    "coordinates": {
+      "latitude": 13.075540776004992,
+      "longitude": 80.26521564549338
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-29T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Apartment in Hyderabad",
+    "description": "A beautiful 2-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 4568250,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 1365,
+    "coordinates": {
+      "latitude": 17.40703382064589,
+      "longitude": 78.49032232599168
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-08T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Apartment in Chennai",
+    "description": "A beautiful 3-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 5592848,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 825,
+    "coordinates": {
+      "latitude": 13.095583071080627,
+      "longitude": 80.27937979690228
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-08T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Studio in Chennai",
+    "description": "A beautiful 1-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 9493794,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 3084,
+    "coordinates": {
+      "latitude": 13.061903996721774,
+      "longitude": 80.27791520882147
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-01T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Independent House in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 3941364,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3591,
+    "coordinates": {
+      "latitude": 12.963863158925916,
+      "longitude": 77.58719488593485
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-31T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Independent House in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 7929849,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 3458,
+    "coordinates": {
+      "latitude": 13.085188535071891,
+      "longitude": 80.2803538457531
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743397015920-e4682a813b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw5fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-01T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Independent House in Hyderabad",
+    "description": "A beautiful 2-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 1904747,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3161,
+    "coordinates": {
+      "latitude": 17.403982122031852,
+      "longitude": 78.50145426028503
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-26T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Studio in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 8279955,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1397,
+    "coordinates": {
+      "latitude": 12.981812218950166,
+      "longitude": 77.60032231662395
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-05-07T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Independent House in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 95217,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2030,
+    "coordinates": {
+      "latitude": 12.990921120164574,
+      "longitude": 77.59214780458106
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-10T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Apartment in Delhi",
+    "description": "A beautiful 3-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 8563811,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 3701,
+    "coordinates": {
+      "latitude": 28.612152639728304,
+      "longitude": 77.21628291547503
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-14T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Villa in Hyderabad",
+    "description": "A beautiful 3-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 7072144,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 3987,
+    "coordinates": {
+      "latitude": 17.383216154473804,
+      "longitude": 78.50956965805246
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-06T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Penthouse in Delhi",
+    "description": "A beautiful 4-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 4331832,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 2146,
+    "coordinates": {
+      "latitude": 28.60840344175859,
+      "longitude": 77.21604535537361
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-03T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Mumbai",
+    "description": "A beautiful 1-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 5377236,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2514,
+    "coordinates": {
+      "latitude": 19.092573291837706,
+      "longitude": 72.87194427397375
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-24T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Independent House in Chennai",
+    "description": "A beautiful 1-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 1789467,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1377,
+    "coordinates": {
+      "latitude": 13.105922367278712,
+      "longitude": 80.24674842744533
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-30T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Villa in Delhi",
+    "description": "A beautiful 1-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 3344305,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2377,
+    "coordinates": {
+      "latitude": 28.615369886041556,
+      "longitude": 77.21966851752124
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-01T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Independent House in Delhi",
+    "description": "A beautiful 1-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 6566433,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2127,
+    "coordinates": {
+      "latitude": 28.620132287143445,
+      "longitude": 77.20700895296481
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-08T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Villa in Hyderabad",
+    "description": "A beautiful 4-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 2280571,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500001"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 3986,
+    "coordinates": {
+      "latitude": 17.408614461862406,
+      "longitude": 78.46640032917603
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-08T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Studio in Mumbai",
+    "description": "A beautiful 3-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 9100075,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1907,
+    "coordinates": {
+      "latitude": 19.084468834847645,
+      "longitude": 72.89304667028604
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-01T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Studio in Bangalore",
+    "description": "A beautiful 5-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 8020904,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 2687,
+    "coordinates": {
+      "latitude": 12.969365405844625,
+      "longitude": 77.58307240690408
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-11T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Penthouse in Hyderabad",
+    "description": "A beautiful 3-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 37385,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 3126,
+    "coordinates": {
+      "latitude": 17.36561635030072,
+      "longitude": 78.4781214245017
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-12T12:21:59.864Z"
+  },
+  {
+    "title": "2BHK Studio in Chennai",
+    "description": "A beautiful 2-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 1862641,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3287,
+    "coordinates": {
+      "latitude": 13.094868804323646,
+      "longitude": 80.27398569700225
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-04-10T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Apartment in Hyderabad",
+    "description": "A beautiful 1-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 9324616,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2766,
+    "coordinates": {
+      "latitude": 17.364692010994872,
+      "longitude": 78.47239975526995
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-20T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 6917105,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2536,
+    "coordinates": {
+      "latitude": 12.952535438364752,
+      "longitude": 77.60223065129196
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-26T12:21:59.864Z"
+  },
+  {
+    "title": "3BHK Villa in Chennai",
+    "description": "A beautiful 3-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 3722842,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 2836,
+    "coordinates": {
+      "latitude": 13.07288759907618,
+      "longitude": 80.29363320616395
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-06-02T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Villa in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 3304846,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 3939,
+    "coordinates": {
+      "latitude": 28.62285239068302,
+      "longitude": 77.19173750112812
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-22T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Penthouse in Mumbai",
+    "description": "A beautiful 4-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 7815026,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2247,
+    "coordinates": {
+      "latitude": 19.061579593841568,
+      "longitude": 72.85995942523239
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-25T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Bangalore",
+    "description": "A beautiful 1-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 1546661,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1586,
+    "coordinates": {
+      "latitude": 12.992821000366076,
+      "longitude": 77.5757392061518
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-12T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Independent House in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 3369812,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 2270,
+    "coordinates": {
+      "latitude": 28.633168294962747,
+      "longitude": 77.20550716457967
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-21T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Studio in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 9647466,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 1200,
+    "coordinates": {
+      "latitude": 13.067430115566564,
+      "longitude": 80.2514528479882
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-06T12:21:59.864Z"
+  },
+  {
+    "title": "4BHK Apartment in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 9353637,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 1017,
+    "coordinates": {
+      "latitude": 13.091536052883328,
+      "longitude": 80.27453391782782
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-01-13T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Studio in Bangalore",
+    "description": "A beautiful 5-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 2097694,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 2538,
+    "coordinates": {
+      "latitude": 12.950644886734246,
+      "longitude": 77.59594088168582
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-18T12:21:59.864Z"
+  },
+  {
+    "title": "5BHK Villa in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 7858009,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 3392,
+    "coordinates": {
+      "latitude": 28.621465267813445,
+      "longitude": 77.20074739970657
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-25T12:21:59.864Z"
+  },
+  {
+    "title": "1BHK Penthouse in Hyderabad",
+    "description": "A beautiful 1-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 5453604,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 1639,
+    "coordinates": {
+      "latitude": 17.36262483640959,
+      "longitude": 78.47666908518627
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1744690176524-62580857164d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxMHx8fHx8fHx8MTc1NDYyNjY2Mnw&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-02-07T12:21:59.866Z"
+  },
+  {
+    "title": "4BHK Villa in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 6120314,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 3954,
+    "coordinates": {
+      "latitude": 13.083478287158714,
+      "longitude": 80.27515468349455
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-25T12:21:59.866Z"
+  },
+  {
+    "title": "4BHK Penthouse in Bangalore",
+    "description": "A beautiful 4-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 6792276,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2665,
+    "coordinates": {
+      "latitude": 12.947229374154606,
+      "longitude": 77.61662376713092
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-07-29T12:21:59.866Z"
+  },
+  {
+    "title": "5BHK Penthouse in Bangalore",
+    "description": "A beautiful 5-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 3571845,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 928,
+    "coordinates": {
+      "latitude": 12.968431351358044,
+      "longitude": 77.60111491295686
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754415267107-8a1f75a6a366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwzfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-08-23T12:21:59.866Z"
+  },
+  {
+    "title": "5BHK Villa in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 3388394,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 2586,
+    "coordinates": {
+      "latitude": 28.607775910801486,
+      "longitude": 77.22987369101841
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-30T12:21:59.866Z"
+  },
+  {
+    "title": "3BHK Penthouse in Hyderabad",
+    "description": "A beautiful 3-bedroom property located in the heart of Hyderabad, Telangana. Well maintained and spacious.",
+    "price": 8742479,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 805,
+    "coordinates": {
+      "latitude": 17.36615482430196,
+      "longitude": 78.46578101426533
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-25T12:21:59.866Z"
+  },
+  {
+    "title": "2BHK Apartment in Chennai",
+    "description": "A beautiful 2-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 4876559,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1699,
+    "coordinates": {
+      "latitude": 13.07667122376307,
+      "longitude": 80.27709588446885
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-31T12:21:59.866Z"
+  },
+  {
+    "title": "2BHK Independent House in Mumbai",
+    "description": "A beautiful 2-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 2728605,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "propertyType": "Independent House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1507,
+    "coordinates": {
+      "latitude": 19.08601369188909,
+      "longitude": 72.8691877961225
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315712995-19e062c66cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw4fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-22T12:21:59.866Z"
+  },
+  {
+    "title": "2BHK Penthouse in Bangalore",
+    "description": "A beautiful 2-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 5637555,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 2477,
+    "coordinates": {
+      "latitude": 12.98382447450788,
+      "longitude": 77.57437630750347
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-23T12:21:59.866Z"
+  },
+  {
+    "title": "1BHK Apartment in Delhi",
+    "description": "A beautiful 1-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 7570656,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110003"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2896,
+    "coordinates": {
+      "latitude": 28.63555334271916,
+      "longitude": 77.19823620598518
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742268350485-40d64a33f5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw0fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-12-22T12:21:59.866Z"
+  },
+  {
+    "title": "2BHK Apartment in Mumbai",
+    "description": "A beautiful 2-bedroom property located in the heart of Mumbai, Maharashtra. Well maintained and spacious.",
+    "price": 4241650,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 3266,
+    "coordinates": {
+      "latitude": 19.082432007699122,
+      "longitude": 72.85603774345016
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743385779312-73ea241025d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw3fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-29T12:21:59.866Z"
+  },
+  {
+    "title": "5BHK Penthouse in Bangalore",
+    "description": "A beautiful 5-bedroom property located in the heart of Bangalore, Karnataka. Well maintained and spacious.",
+    "price": 3530537,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 1386,
+    "coordinates": {
+      "latitude": 12.968611991660376,
+      "longitude": 77.56963607339335
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1742964620573-5e4c1cca6009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw1fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2025-03-07T12:21:59.866Z"
+  },
+  {
+    "title": "5BHK Penthouse in Delhi",
+    "description": "A beautiful 5-bedroom property located in the heart of Delhi, Delhi. Well maintained and spacious.",
+    "price": 4797199,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 1248,
+    "coordinates": {
+      "latitude": 28.611118999497496,
+      "longitude": 77.21352550081731
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754430543609-aae159c530ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwxfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-09-08T12:21:59.866Z"
+  },
+  {
+    "title": "2BHK Apartment in Chennai",
+    "description": "A beautiful 2-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 6071104,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    },
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1766,
+    "coordinates": {
+      "latitude": 13.061951374988437,
+      "longitude": 80.28327227110611
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1743315713098-541dcc1934b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHw2fHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-11-06T12:21:59.866Z"
+  },
+  {
+    "title": "4BHK Penthouse in Chennai",
+    "description": "A beautiful 4-bedroom property located in the heart of Chennai, Tamil Nadu. Well maintained and spacious.",
+    "price": 8409973,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    },
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 3187,
+    "coordinates": {
+      "latitude": 13.085920399337523,
+      "longitude": 80.26829398818194
+    },
+    "images": [
+      {
+        "small": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=400",
+        "regular": "https://images.unsplash.com/photo-1754404053324-8f910c2b7e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODg5NTh8MHwxfGFsbHwyfHx8fHx8fHwxNzU0NjI2NjYyfA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    ],
+    "listedDate": "2024-10-16T12:21:59.866Z"
+  }
+]
